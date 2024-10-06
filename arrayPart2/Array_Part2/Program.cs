@@ -60,16 +60,16 @@
 
 // ededin mertebelerinin cemini tapan alqoritm 
 
-Console.WriteLine("ededi daxil edin: ");
-int num = Convert.ToInt32(Console.ReadLine());
-int sum = 0;
-while (num > 0)
-{
-    int m = num % 10;
-    sum += m;
-    num /= 10;
-}
-Console.WriteLine(sum);
+//Console.WriteLine("ededi daxil edin: ");
+//int num = Convert.ToInt32(Console.ReadLine());
+//int sum = 0;
+//while (num > 0)
+//{
+//    int m = num % 10;
+//    sum += m;
+//    num /= 10;
+//}
+//Console.WriteLine(sum);
 
 
 
