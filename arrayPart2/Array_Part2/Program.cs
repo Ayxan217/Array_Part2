@@ -67,9 +67,11 @@ while (num > 0)
 {
     int m = num % 10;
     sum += m;
-    num = (num / 10) % 10;
+    num /= 10;
 }
 Console.WriteLine(sum);
+
+
 
 
 

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Array_Part2\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Array_Part2\\arrayPart2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFE5257E-2706-4D2A-AE51-16BBE5FDBC04}|Array_Part2\\Array_Part2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\array_part2\\array_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFE5257E-2706-4D2A-AE51-16BBE5FDBC04}|Array_Part2\\Array_Part2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\array_part2\\arraypart2\\array_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFE5257E-2706-4D2A-AE51-16BBE5FDBC04}|Array_Part2\\Array_Part2.csproj|solutionrelative:array_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Array_Part2\\Array_Part2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Array_Part2\\arrayPart2\\Array_Part2\\Program.cs",
               "RelativeDocumentMoniker": "Array_Part2\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Array_Part2\\Array_Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Array_Part2\\arrayPart2\\Array_Part2\\Program.cs",
               "RelativeToolTip": "Array_Part2\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAA0wFAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T14:52:57.491Z"
+              "WhenOpened": "2024-10-05T14:52:57.491Z",
+              "EditorCaption": ""
             }
           ]
         }
