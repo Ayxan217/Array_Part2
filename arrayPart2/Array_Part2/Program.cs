@@ -58,18 +58,19 @@
 
 
 
-// ededin mertebelerinin cemini tapaan alqoritm 
+// ededin mertebelerinin cemini tapan alqoritm 
 
-//Console.WriteLine("ededi daxil edin: ");
-//string num = Console.ReadLine();
-//int sum = 0;
-//for (int i = 0; i < num.Length; i++)
-//{
-    
-//    int digit = Convert.ToInt32(num[i].ToString());
-//    sum += num[i];
-//}
-//Console.WriteLine(sum);
+Console.WriteLine("ededi daxil edin: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int sum = 0;
+while (num > 0)
+{
+    int m = num % 10;
+    sum += m;
+    num = (num / 10) % 10;
+}
+Console.WriteLine(sum);
+
 
 
 
